@@ -11,3 +11,4 @@ list(APPEND CMAKE_MODULE_PATH "${CMAKE_SOURCE_DIR}/cmake")
 include(FindSDL3Package)
 
 add_subdirectory(source)
+
