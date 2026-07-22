@@ -8,7 +8,7 @@
             "binaryDir": "${sourceDir}/buildes/build_debug",
             "cacheVariables": {
                 "CMAKE_BUILD_TYPE": "Debug",
-                "CMAKE_PREFIX_PATH": "D:/dev/CurseMarkClone/external/SDL3-3.4.12/x86_64-w64-mingw32"
+                "CMAKE_PREFIX_PATH": "${sourceDir}/external/SDL3-3.4.12/x86_64-w64-mingw32"
             }
         }
     ],
